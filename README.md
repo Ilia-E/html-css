@@ -1,2 +1,2 @@
 # html-css
-Learning project of responsive HTML and CSS web site
+Learning project of responsive HTML and CSS website
